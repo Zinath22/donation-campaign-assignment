@@ -1,0 +1,160 @@
+[
+    {
+      "id": 1,
+      "category_name": "Health",
+      "title": "Clean water for children",
+      "description": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.",
+      "price": 290.00,
+      "card_bg": "rgba(0, 82, 255, 0.15)",
+      "category_name_bg": "rgba(0, 82, 255, 0.20)",
+      "text_color": "#0052FF",
+      "button_bg": " ",
+      "card_img": "https://i.ibb.co/tZRbRKW/Health.png"
+     
+      
+    },
+    {
+      "id": 2,
+      "category_name": "Education",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 290.00,
+      "card_bg": "rgba(255, 68, 74, 0.15)",
+      "category_name_bg": "rgba(255, 68, 74, 0.20)",
+      "text_color": "#FF444A",
+      "button_bg": "#FF444A",
+      "card_img": "https://i.ibb.co/WNr1dgV/Education.png"
+      
+    },
+    {
+      "id": 3,
+      "category_name": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies",
+      "price": 49.99,
+      "card_bg": "rgba(121, 194, 63, 0.15)",
+      "category_name_bg": "rgba(121, 194, 63, 0.20)",
+      "text_color": "#79C23F",
+      "button_bg": "#B5FFB3",
+      "card_img": "https://i.ibb.co/D4p4F5d/Clothing.png"
+      
+    },
+    {
+      "id": 4,
+      "category_name": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth.",
+      "price": 14.99,
+      "card_bg": "rgba(248, 113, 71, 0.15)",
+      "category_name_bg": "rgba(248, 113, 71, 0.20)",
+      "text_color": "#F87147",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/KLDtL1T/Food.png"
+     
+    },
+    {
+      "id": 5,
+      "category_name": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth.",
+      "price": 29.99,
+      "card_bg": "rgba(248, 113, 71, 0.15)",
+      "category_name_bg": "rgba(248, 113, 71, 0.20)",
+      "text_color": "#F87147",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/KLDtL1T/Food.png"
+      
+    },
+    {
+      "id": 6,
+      "category_name": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies",
+      "price": 29.99,
+      "card_bg": "rgba(121, 194, 63, 0.15)",
+      "category_name_bg": "rgba(121, 194, 63, 0.20)",
+      "text_color": "#79C23F",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/D4p4F5d/Clothing.png"
+     
+    },
+    {
+      "id": 7,
+      "category_name": "Education",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 29.99,
+      "card_bg": "rgba(255, 68, 74, 0.15)",
+      "category_name_bg": "rgba(255, 68, 74, 0.20)",
+      "text_color": "#FF444A",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/WNr1dgV/Education.png"
+     
+    },
+    {
+      "id": 8,
+      "category_name": "Health",
+      "title": "Clean water for children",
+      "description": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.",
+      "price": 29.99,
+      "card_bg": "rgba(0, 82, 255, 0.15)",
+      "category_name_bg": "rgba(0, 82, 255, 0.20)",
+      "text_color": "#0052FF",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/tZRbRKW/Health.png"
+      
+    },
+    {
+      "id": 9,
+      "category_name": "Health",
+      "title": "Clean water for children",
+      "description": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.",
+      "price": 29.99,
+      "card_bg": "rgba(0, 82, 255, 0.15)",
+      "category_name_bg": "rgba(0, 82, 255, 0.20)",
+      "text_color": "#0052FF",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/tZRbRKW/Health.png"
+      
+    },
+    {
+      "id": 10,
+      "category_name": "Education",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 29.99,
+      "card_bg": "rgba(255, 68, 74, 0.15)",
+      "category_name_bg": "rgba(255, 68, 74, 0.20)",
+      "text_color": "#FF444A",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/WNr1dgV/Education.png"
+     
+    },
+    {
+      "id": 11,
+      "category_name": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies",
+      "price": 29.99,
+      "card_bg": "rgba(121, 194, 63, 0.15)",
+      "category_name_bg": "rgba(121, 194, 63, 0.20)",
+      "text_color": "#79C23F",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/D4p4F5d/Clothing.png"
+      
+    },
+    {
+      "id": 12,
+      "category_name": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. ",
+      "price": 29.99,
+      "card_bg": "rgba(248, 113, 71, 0.15)",
+      "category_name_bg": "rgba(248, 113, 71, 0.20)",
+      "text_color": "#F87147",
+      "button_bg": "#0052FF",
+      "card_img": "https://i.ibb.co/KLDtL1T/Food.png"
+      
+    }
+    
+  ]
